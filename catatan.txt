@@ -1,0 +1,3 @@
+Front End menggunakan PHP
+Back End menggunakan PHP dan framework codeigniter 3
+Database menggunakan MySQL
